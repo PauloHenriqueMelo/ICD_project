@@ -10,7 +10,7 @@ Há várias referências online para este projeto, divididas em três categorias
 
 - O dataset de churn de clientes da IBM Telco está disponível na plataforma [Kaggle](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset?select=Telco_customer_churn.xlsx).
 
-- Um vídeo de apresentação do projeto foi produzido pelo nosso grupo e está disponível no [YouTube](https://www.youtube.com/watch?v=arOVNpElnDQ).
+- Um vídeo de apresentação do projeto foi produzido pelo nosso grupo e está disponível no [YouTube](https://www.youtube.com/watch?v=qwwxwyVXLrY).
 
 ## Motivação
 
