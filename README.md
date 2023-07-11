@@ -1,3 +1,5 @@
+#TRABALHO DA DISCIPLINA INTRODUÇÃO A CIENCIA DE DADOS DO PROF. FLÁVIO FIGUEIREDO
+
 # Descrição do Projeto e Problema
 
 Este projeto se baseia na análise de um conjunto de dados com informações de 7043 clientes de uma empresa de telecomunicações, representadas por 33 variáveis distintas. Estas variáveis abrangem uma variedade de características dos clientes, como perfil demográfico, localização geográfica, detalhes dos serviços contratados, valores de cobrança, métodos de pagamento e o status de relação com a empresa. O termo "churn" é utilizado no banco de dados para indicar a decisão de um cliente de encerrar seu contrato com a empresa.
